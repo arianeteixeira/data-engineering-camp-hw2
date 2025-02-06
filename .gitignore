@@ -1,0 +1,5 @@
+#Don't include data files
+data_yellow/*.csv
+data_yellow/*.csv.gz
+data/*.csv
+data/*.csv.gz
